@@ -1,4 +1,4 @@
- Hi 👋, I'm Dimashi Ama Ransika
+ # Hi 👋, I'm Dimashi Ama Ransika
 
 ### Software Developer | UI/UX Designer | Data Science Student
 
