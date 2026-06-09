@@ -30,8 +30,8 @@ R Language | Power BI | Tableau | Advanced Analytics | Data Storytelling
 
 ### 📫 Get In Touch
 - **Portfolio:** [www.amaransika.me](http://www.amaransika.me)
-- **LinkedIn:** [linkedin.com/in/ama-ransika](https://linkedin.com/in/ama-ransika)
-- **Badges:** [My Credly Profile](https://www.credly.com/users/ama-ransika)
+- **LinkedIn:** [linkedin.com/in/ama-ransika](https://linkedin.com/in/amaransika)
+- **Badges:** [My Credly Profile](https://www.credly.com/users/amaransika)
 - **Email:** [amaransika68@gmail.com](mailto:amaransika68@gmail.com)
 
 ---
