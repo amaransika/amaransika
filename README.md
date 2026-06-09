@@ -1,37 +1,41 @@
- # Hi 👋, I'm Dimashi Ama Ransika
+# Hi 👋, I'm Dimashi Ama Ransika
 
-### Software Developer | UI/UX Designer | Data Science Student
+### Software Developer | UI/UX Designer | Data Science Enthusiast
 
-I specialize in Software Engineering, Data Science, and UI/UX Design. Currently, I am building innovative web and mobile applications while pursuing my BSc (Hons) in Data Science[cite: 1].
+I am a passionate Software Developer and UI/UX Designer who thrives at the intersection of aesthetic design, robust software engineering, and data intelligence. Currently pursuing my BSc (Hons) in Data Science, I am dedicated to building intelligent, user-centric, and data-driven applications.
 
-- 🔭 I’m currently working as a Software Developer, UI/UX Designer, AI Integrator, and Data Analyst at **Axiora Labs**[cite: 1].
-- 🌱 I’m constantly exploring deeper **Data Science** methodologies and exploring multi-dashboard solutions[cite: 1].
-- 🎨 When I'm not coding, I design professional, user-centric interfaces on **Figma**[cite: 1] and share my designs on **Dribbble**.
-- 👯 I’m looking to collaborate on open-source projects or innovative UI/UX designs.
-- 📫 How to reach me: **amaransika68@gmail.com**[cite: 1] or connect with me on [LinkedIn](https://linkedin.com/in/ama-ransika)[cite: 1].
-- 🌐 Check out my portfolio: **[www.amaransika.me](http://www.amaransika.me)**[cite: 1]
+---
 
-### 🛠️ My Tech Stack
+### 🚀 Quick Highlights
+- 💼 **Professional Experience:** Currently serving as a Software Developer, UI/UX Designer, and AI Integrator at **Axiora Labs** (Part-time).
+- 🎓 **Education:** BSc (Hons) in Data Science student at Cardiff Metropolitan University.
+- 🎨 **Design Philosophy:** I create seamless user experiences in **Figma** and maintain an active design presence on **Dribbble**.
+- 🛠 **Focus:** Building modern web/mobile applications with Next.js, integrating AI models, and performing advanced data analytics.
+- 🤝 **Collaboration:** I’m always open to discussing innovative open-source projects or UI/UX design challenges.
 
-**Frontend & Design:**
-<p>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
+---
 
-**Backend & Database:**
-<p>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+### 🛠️ Technical Expertise
 
-**Data Science & Analytics:**
-<p>
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R Language" />
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
+**Frontend & Design**
+React | Next.js | JavaScript/TypeScript | Tailwind CSS | Figma | UI/UX Design
+
+**Backend & Data**
+Node.js | Python | C# | PostgreSQL | MongoDB
+
+**Data Science & Analytics**
+R Language | Power BI | Tableau | Advanced Analytics | Data Storytelling
+
+---
+
+### 📫 Get In Touch
+- **Portfolio:** [www.amaransika.me](http://www.amaransika.me)
+- **LinkedIn:** [linkedin.com/in/ama-ransika](https://linkedin.com/in/ama-ransika)
+- **Badges:** [My Credly Profile](https://www.credly.com/users/ama-ransika)
+- **Email:** [amaransika68@gmail.com](mailto:amaransika68@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amaransika&show_icons=true&theme=tokyonight" alt="Ama Ransika's GitHub Stats" />
 </p>
